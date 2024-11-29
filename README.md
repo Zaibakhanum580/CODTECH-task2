@@ -71,4 +71,4 @@ TECHNOLOGY USED
 3. Database: MongoDB or PostgreSQL for storing user profiles, posts, and comments, enabling efficient data management.
 
 
-J
+
